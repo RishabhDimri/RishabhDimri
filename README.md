@@ -439,6 +439,82 @@ Worked on mobile application development and system integration using **React Na
 
 ---
 
+# 🏅 Featured Credentials
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+<a href="https://www.credly.com/badges/b1c50c84-2295-455f-8e6e-4fec49e90baf/public_url">
+<img src="./assets/claude-certified.png" width="105" alt="Claude Certified Associate - Foundations">
+</a>
+<br>
+<b>Claude</b>
+<br>
+<sub>Certified Associate</sub>
+</td>
+
+<td align="center" width="20%">
+<a href="https://www.credly.com/badges/71421651-6fd9-47e4-85fb-00e7d6faec0c/public_url">
+<img src="./assets/google-kubernetes.png" width="105" alt="Manage Kubernetes in Google Cloud">
+</a>
+<br>
+<b>Google Cloud</b>
+<br>
+<sub>Kubernetes</sub>
+</td>
+
+<td align="center" width="20%">
+<a href="https://www.credly.com/badges/4a545e6d-e14f-472b-9634-829bfbae7ed9/public_url">
+<img src="./assets/google-cloud-data.png" width="105" alt="Store, Process, and Manage Data on Google Cloud">
+</a>
+<br>
+<b>Google Cloud</b>
+<br>
+<sub>Cloud Data</sub>
+</td>
+
+<td align="center" width="20%">
+<a href="https://www.credly.com/badges/1d373328-2e46-4a55-bc93-23e14c0ddf5b/public_url">
+<img src="./assets/firebase-serverless.png" width="105" alt="Develop Serverless Apps with Firebase">
+</a>
+<br>
+<b>Google Cloud</b>
+<br>
+<sub>Serverless</sub>
+</td>
+
+<td align="center" width="20%">
+<a href="https://www.credly.com/badges/978a8322-7a59-4008-a1a3-816ec70a6c30/public_url">
+<img src="./assets/aws-cloud-foundations.png" width="105" alt="AWS Academy Graduate - Cloud Foundations">
+</a>
+<br>
+<b>AWS</b>
+<br>
+<sub>Cloud Foundations</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Claude+%E2%80%A2+Kubernetes+%E2%80%A2+Cloud+Data+%E2%80%A2+Serverless+%E2%80%A2+AWS" />
+
+<br>
+
+<a href="https://www.credly.com/users/rishabh-dimri-risam">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20CREDLY%20CREDENTIALS-06B6D4?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
+</div>
+
+
+---
+
+
 # 🏆 Highlights
 
 <div align="center">
@@ -488,7 +564,6 @@ Worked on mobile application development and system integration using **React Na
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RishabhDimri&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img src="https://streak-stats.demolab.com?user=RishabhDimri&theme=tokyonight&hide_border=true&background=050B14&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=8B949E" />
 
