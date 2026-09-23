@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:071A2B,45:0B3047,70:075985,100:06B6D4&height=280&section=header&text=RISHABH%20DIMRI&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20REACT%20%7C%20REACT%20NATIVE&descSize=18&descAlignY=57&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Initializing+RishabhDimri.exe...;%3E+Java+%2B+Spring+Boot+%2B+PostgreSQL;%3E+React+%2B+React+Native;%3E+Building+Ledgerly+%F0%9F%92%B0;%3E+1%2C095%2B+DSA+problems+solved;%3E+Learning+System+Design;%3E+Ready+to+build+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Initializing+RishabhDimri.exe...;%3E+Java+%2B+Spring+Boot+%2B+PostgreSQL;%3E+React+%2B+React+Native;%3E+1%2C095%2B+DSA+problems+solved;%3E+Learning+System+Design;%3E+Ready+to+build+%F0%9F%9A%80" />
 
 <br>
 
@@ -99,17 +99,6 @@ I enjoy building complete systems — from **database design and REST APIs to bu
 Currently focused on **backend architecture, LLD, System Design and scalable applications**.
 
 `Design` → `Build` → `Integrate` → `Test` → `Ship`
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=380&height=80&lines=JAVA+%2B+SPRING+BOOT;REACT+%2B+REACT+NATIVE;POSTGRESQL+%2B+REST;LLD+%2B+SYSTEM+DESIGN" />
-
-<br>
-
-<img src="https://img.shields.io/badge/BUILDING-Ledgerly-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-1%2C095%2B-F59E0B?style=for-the-badge" />
 
 </td>
 
